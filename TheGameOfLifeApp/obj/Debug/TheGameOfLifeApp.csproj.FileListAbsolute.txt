@@ -1,0 +1,14 @@
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\bin\Debug\TheGameOfLifeApp.exe.config
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\bin\Debug\TheGameOfLifeApp.exe
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\bin\Debug\TheGameOfLifeApp.pdb
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.csproj.AssemblyReference.cache
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.csproj.SuggestedBindingRedirects.cache
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.Form1.resources
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.Properties.Resources.resources
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.csproj.GenerateResource.cache
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.csproj.CoreCompileInputs.cache
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.exe
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.pdb
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\bin\Debug\Newtonsoft.Json.dll
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\bin\Debug\Newtonsoft.Json.xml
+D:\dotNetProjekty\TheGameOfLifeApp\TheGameOfLifeApp\obj\Debug\TheGameOfLifeApp.csproj.CopyComplete
